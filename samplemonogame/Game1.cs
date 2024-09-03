@@ -9,6 +9,7 @@ namespace samplemonogame
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         int Phupha;
+        int Raccoonz;
 
         public Game1()
         {
